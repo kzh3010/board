@@ -157,3 +157,9 @@ export const SubmitButton = styled.button`
   cursor: pointer;
   background-color: orange;
 `;
+
+export const Error = styled.div`
+  padding-top: 10px;
+  font-size: 14px;
+  color: red;
+`;
